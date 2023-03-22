@@ -13,7 +13,7 @@
 - 📫 Como chegar até mim: converse
 
 - ⚡ Curiosidade: calmo
--->- SENAi ipiranga
+-->- SENAI ipiranga
 -Desenvolvimento de sistema
 -
 -👾jogos👾
