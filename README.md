@@ -1,16 +1,19 @@
-### Hi there 👋
+### ⚜salve ⚜
 
 <!--
 **Jorgx1974/jorgx1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 Atualmente estou deseempregrado
+- 🌱 Atualmente estou aprendendo pogramação
+- 👯 Procuro colaboração por enquanto nada
+- 🤔 Estou procurando ajuda com a vida
+- 💬 Pergunte-me sobre jogos e filmes
+- 📫 Como chegar até mim: converse
+
+- ⚡ Curiosidade: calmo
+-->- SENAi ipiranga
+-Desenvolvimento de sistema
+-
+-👾jogos👾
