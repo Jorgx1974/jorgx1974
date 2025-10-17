@@ -15,7 +15,12 @@
 - ⚡ Curiosidade: calmo
 -->- SENAI 
 -Desenvolvimento de sistema
+SOBRE MIM
+Sou um desenvolvedor curioso e criativo, sempre em busca de novas formas de resolver problemas com código limpo e funcional.
+Gosto de explorar tecnologias como Node.js, Python, JavaScript, React, MySQL, Git e GitHub, construindo desde APIs até interfaces interativas.
 
+Tenho o “defeito” de nunca ficar satisfeito com o primeiro resultado — estou sempre tentando melhorar, otimizar e aprender algo novo.
+Acredito que cada linha de código é uma oportunidade de evoluir.
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="100" height="100" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" height="100" /> 
