@@ -14,7 +14,7 @@
 
 - ⚡ Curiosidade: calmo
 -->- SENAI 
-SOBRE MIM
+
 Sou um desenvolvedor curioso e criativo, sempre em busca de novas formas de resolver problemas com código limpo e funcional.
 Gosto de explorar tecnologias como Node.js, Python, JavaScript, React, MySQL, Git e GitHub, construindo desde APIs até interfaces interativas.
 Tenho o “defeito” de nunca ficar satisfeito com o primeiro resultado, estou sempre tentando melhorar, otimizar e aprender algo novo.
